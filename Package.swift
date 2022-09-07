@@ -28,23 +28,23 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GoogleMaps",
-            url: "https://github.com/everli/GoogleMaps-SP-iOS/releases/download/6.1.1/GoogleMaps.xcframework.zip",
-            checksum: "4f1ecd8969cc9a80f27c29bc10bff55aca69a912e1336894bea30aa10be03725"
+            url: "https://github.com/ronzohan/GoogleMaps/releases/download/6.2.1/GoogleMaps.xcframework.zip",
+            checksum: "0d4bee57d866925944bb88a3f95f0df5654c8621daff8752b364676e47ec18fb"
         ),
         .binaryTarget(
             name: "GoogleMapsBase",
-            url: "https://github.com/everli/GoogleMaps-SP-iOS/releases/download/6.1.1/GoogleMapsBase.xcframework.zip",
-            checksum: "6cc431b8d28640d5c229cf32c5ad6187ea55eee3fde6c7f4cccf4a0b4c35eeb4"
+            url: "https://github.com/ronzohan/GoogleMaps/releases/download/6.2.1/GoogleMapsBase.xcframework.zip",
+            checksum: "30101c7b2d8d3486013541a650d9f510b8838cf7fd03fce8983c9ab2656bef48"
         ),
         .binaryTarget(
             name: "GoogleMapsCore",
-            url: "https://github.com/everli/GoogleMaps-SP-iOS/releases/download/6.1.1/GoogleMapsCore.xcframework.zip",
-            checksum: "1b766e689d6516a999be1d7b71b0aef28eff3d86690e0bab20d6e26f411f116d"
+            url: "https://github.com/ronzohan/GoogleMaps/releases/download/6.2.1/GoogleMapsCore.xcframework.zip",
+            checksum: "d3b823a4134109e26e32d905677409995addec226b2e262c870d73ccb5a52254"
         ),
         .binaryTarget(
             name: "GoogleMapsM4B",
-            url: "https://github.com/everli/GoogleMaps-SP-iOS/releases/download/6.1.1/GoogleMapsM4B.xcframework.zip",
-            checksum: "10637ad5c15515f00e3540446a9b3d95e0354db10867b4b40fb5e6a55117cf16"
+            url: "https://github.com/ronzohan/GoogleMaps/releases/download/6.2.1/GoogleMapsM4B.xcframework.zip",
+            checksum: "ad142e56960c2559a13888354e624cf1e60ffed3bb218d52de0bd6bac8a511a1"
         ),
     ]
 )
